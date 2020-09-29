@@ -1,0 +1,17 @@
+{
+"details":{
+	"image":"./image/apssdc.png",
+	"name":"Chandrasekhar Nallamaru",
+    "career":"Career Objective : seeking a software engineer position in an organisation where i can use my talents and skills to grow and expand.",
+	"content":["School Name : z.p.boys high school","Address: khajipet,kadapa","Year of completion: 2015","CGPA : 9.7"],
+	"attendedcount":40,
+
+    "address":["Contact-Num: 9603697996","E-mail: rguktrkv.ac.in","Address: Kadapa,khajipet"],
+    "clg":["University Name: RGUKT RKVALLEY","Address: Idupulapaya","pursuing year : B.tech","Branch: CSE","Cgpa: 8.0"],
+    "tech":["JAVA","C","HTML,CSS","JAVASCRIPT","REACT JS"],
+    "skill":["Ability to think","Ability to adapt","Hardworking"],
+    "hob":["Listening to music","Playing games","Reading stories"]
+}
+}
+
+
